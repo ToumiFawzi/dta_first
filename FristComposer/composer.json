@@ -1,0 +1,16 @@
+{
+	"autoload" : {
+		"psr-4" : {
+			"Dta\\FristComposer\\" : "src"
+		}
+	},
+	"name" : "dta/FristComposer",
+	"require" : {
+		"php" : ">=7.0",
+		"nesbot/carbon" : "~1.22",
+		"respect/validation" : "~1.1",
+		"slim/slim" : "~3.9",
+		"egulias/email-validator" : "~2.1"
+	},
+	"minimum-stability" : "RC"
+}
