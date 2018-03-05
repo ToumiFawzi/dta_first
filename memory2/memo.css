@@ -1,0 +1,30 @@
+
+   html, body{
+    width: 100%;
+    height: 100%;
+    display:flex;
+        margin:0;
+    padding:0;
+       background-color: aquamarine;
+}
+
+td{   
+    text-align: center;
+    position:relative;
+    
+   
+}
+img{
+    height:80px ;
+    
+}
+table{
+    margin: auto;
+    position: relative;
+}
+h1{
+   margin: auto;
+    position: relative;
+    font-size:80px;
+   
+}
